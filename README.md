@@ -1,6 +1,6 @@
 # Hi there 👋
-## My profession is Electronic engineer
-I’m currently learning git
+## Welcome to my little place
+**I hope I can contribute with something no matter how big or small it be I'd be very happy if I'm able to help you**
 
 <!--
 **juanpgithh/juanpgithh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
